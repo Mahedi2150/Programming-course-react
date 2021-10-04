@@ -1,0 +1,75 @@
+[
+    {
+        "key":"1",
+        "title":"JavaScript For Beginners",
+        "img":"https://miro.medium.com/max/1400/1*YQgaKfVzK-YpxyT3NYqJAg.png",
+        "duration":"6:00 hr",
+        "price":"720",
+        "type":"Programming"
+    },
+    {
+        "key":"2",
+        "title":" Full Stack (MERN) Web Development with JavaScript",
+        "img":"https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png",
+        "duration":"19:00 hr",
+        "price":"5000",
+        "type":"Web Development"
+    },
+    {
+        "key":"3",
+        "title":" Everything You Need To Know About Modern JavaScript",
+        "img":"https://miro.medium.com/max/1400/1*Xsras7zhG6YZn8lEzu8l-w.jpeg",
+        "duration":"12:00 hr",
+        "price":"1200",
+        "type":"Web Development"
+    },
+    {
+        "key":"4",
+        "title":"Complete Back-end Development Course on JavaScript",
+        "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png",
+        "duration":"18:00 hr",
+        "price":"2500",
+        "type":"Web Development"
+    },
+    {
+        "key":"5",
+        "title":"Advanced JAVA Programming for Software Development",
+        "img":"https://i.pcmag.com/imagery/articles/03mYCJkIdptJX1Soh08tBzt-1..1630572092.jpg",
+        "duration":"12:00 hr",
+        "price":"2200",
+        "type":"Web Development"
+    },
+    {
+        "key":"6",
+        "title":" Back-End Development With Python and Django",
+        "img":"https://hackr.io/blog/what-is-django-advantages-and-disadvantages-of-using-django/thumbnail/large",
+        "duration":"16:00 hr",
+        "price":"2700",
+        "type":"Web Development"
+    },
+    {
+        "key":"7",
+        "title":"Data Structures And Algorithms",
+        "img":"https://miro.medium.com/max/2560/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg",
+        "duration":"12:00 hr",
+        "price":"2000",
+        "type":"Programming"
+    },
+    {
+        "key":"8",
+        "title":"Complete HTML5, CSS3 & Bootstrap 4",
+        "img":"https://media.freebiesglobal.com/thumbs_dir/html5css3-and-bootstrap-4-build-two-websites-in-hindiurdu-orzmjew49i8zunxml395z5ryuf4d1qx5mkbdod62nu.jpg",
+        "duration":"6:00 hr",
+        "price":"600",
+        "type":"Web Development"
+    },
+    {
+        "key":"9",
+        "title":"React with Django REST API",
+        "img":"https://i.morioh.com/39b881aa45.png",
+        "duration":"7:00 hr",
+        "price":"15000",
+        "type":"Web Development"
+    }
+    
+]

@@ -1,0 +1,13 @@
+.buttonStyle {
+  color: black;
+  font-weight: bolder;
+}
+.priceTimeStyle {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+  color: orange;
+}
+.imgStyle {
+  height: 250px;
+}

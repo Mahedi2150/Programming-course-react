@@ -1,0 +1,8 @@
+.navStyle {
+  text-decoration: none;
+  color: aliceblue;
+  padding: 5px 10px;
+}
+.navStyle:hover {
+  color: aliceblue;
+}

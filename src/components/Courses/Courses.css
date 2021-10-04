@@ -1,0 +1,12 @@
+.buttonStyle {
+  color: black;
+  font-weight: bolder;
+  width: 100%;
+}
+.priceStyle {
+  display: flex;
+  justify-content: space-between;
+}
+.imgStyle {
+  height: 250px;
+}
