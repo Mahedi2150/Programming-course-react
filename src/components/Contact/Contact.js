@@ -1,8 +1,8 @@
 import React from 'react';
-import "./Contract.css"
+import "./Contact.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMapMarker,faPhone,faPaperPlane } from '@fortawesome/free-solid-svg-icons'
-const Contract = () => {
+const Contact = () => {
     const location = <FontAwesomeIcon icon={faMapMarker} />
     const phone = <FontAwesomeIcon icon={faPhone} />
     const email = <FontAwesomeIcon icon={faPaperPlane} />
@@ -10,10 +10,10 @@ const Contract = () => {
    
     return (
         <div className="title">
-            <h2> Contract</h2>
+            <h2> Contact</h2>
 
-            <div className=" container contract">
-                <h4>Contract us</h4>
+            <div className=" container contact">
+                <h4>contact us</h4>
                 <h1>Stay in touch with us</h1>
                 <p><span>{location }</span> Dhanmondi, Dhaka, Bangladesh </p>
                 <p><span>{phone } </span> +8801100000111 </p>
@@ -52,7 +52,7 @@ const Contract = () => {
               <label htmlFor="floatingTextarea"></label>
             </div>
             <div className="text-center">
-              <button type="submit " className="btn btn-warning px-5 py-3 mb-5">
+              <button  className="btn btn-warning px-5 py-3 mb-5">
                 Submit
               </button>
             </div>
@@ -62,4 +62,4 @@ const Contract = () => {
     );
 };
 
-export default Contract;
+export default Contact;
