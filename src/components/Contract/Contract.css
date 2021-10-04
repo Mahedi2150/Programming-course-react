@@ -1,0 +1,17 @@
+.title h2 {
+  text-align: center;
+  background-color: rgb(236, 191, 76);
+  padding: 50px;
+  color: rgba(0, 0, 0, 0.795);
+}
+
+.contract h4 {
+  color: goldenrod;
+}
+.contract h1 {
+  color: orange;
+  padding: 30px 0px;
+}
+.contract span {
+  color: #e73622;
+}
